@@ -23,7 +23,7 @@ The result will display:
 3. Monthly Installment (in Rs.)
 
 ## Prerequisites(for .py file)
-1.Python 3.x
+1. Python 3.x
 2. Tkinter (comes pre-installed with Python)
 
 ## Installation and Running the Code
